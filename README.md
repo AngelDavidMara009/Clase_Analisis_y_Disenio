@@ -8,11 +8,6 @@ Este es un proyecto para aprender Git y GitHub desde cero.
 - Crear un repositorio con README.
 - Subir cambios al repositorio remoto.
 
-## Tecnologías utilizadas
-- HTML
-- CSS
-- JavaScript
-
 > La práctica hace al maestro.
 
 [Visitar Google](https://www.google.com)
