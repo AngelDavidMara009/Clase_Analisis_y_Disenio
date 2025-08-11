@@ -19,7 +19,7 @@ Este proyecto tiene como objetivo diseñar y desarrollar una base de datos relac
 
 Consulta este recurso sobre diseño de bases de datos para bibliotecas en [Vertabelo Database Modeler](https://vertabelo.com/blog/database-for-library-system/).
 
-![Modelo de base de datos para biblioteca](https://vertabelo.com/blog/wp-content/uploads/2016/04/library-database-model.png)
+![Modelo de base de datos para biblioteca](descarga.png)
 
 ## Ejemplo de Código
 
