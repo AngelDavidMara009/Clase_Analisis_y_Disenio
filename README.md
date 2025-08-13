@@ -13,7 +13,7 @@ Este proyecto gestiona reservas, habitaciones y clientes de un hotel mediante un
 
 > *"Un buen sistema de reservas es clave para la satisfacción del huésped."*  
 
-![Modelo DB para hotel](hotel-db-model.png)  
+![Modelo DB para hotel](descarga.png)  
 
 ## Estructura SQL  
 
